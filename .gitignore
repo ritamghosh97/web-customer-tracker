@@ -1,0 +1,18 @@
+#Ignore build Directories
+*/build/
+build/*
+build/
+
+#Ignore any file with .class extension
+*.class
+
+#Ignore any file with .classpath extension
+*.classpath
+
+#Ignore any file with .project extension
+*.project
+
+#Ignore .settings directory
+.settings/
+.settings/*
+*/settings/
